@@ -22,7 +22,7 @@
 $ git clone git@github.com:EricNeves/Simple-SPA.git
 
 # Install Dependencies
-$ cd Simple-SPA && npm install
+$ cd simpleSPA && npm install
 
 # Execute
 $ npm start
