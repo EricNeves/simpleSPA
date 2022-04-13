@@ -16,10 +16,10 @@
 ### Executando ⚙️
 
 ```sh
-# Website: https://simplesinglepageapp.netlify.app/
+# Website: https://simplesinglepageapp.herokuapp.com/
 
 # Clone
-$ git clone git@github.com:EricNeves/Simple-SPA.git
+$ git clone https://github.com/EricNeves/simpleSPA.git
 
 # Install Dependencies
 $ cd simpleSPA && npm install
@@ -37,6 +37,7 @@ $ npm run build
    * HTML5
    * CSS3
    * Javascript
+     * Fetch
    * NodeJS
      * [Express]('https://expressjs.com/')
      * [Webpack]('https://webpack.js.org/')
