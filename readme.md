@@ -16,7 +16,7 @@
 ### Executando ⚙️
 
 ```sh
-# Website: https://simplesinglepageapp.herokuapp.com/
+# Website: https://simplesinglepageapplication.netlify.app/
 
 # Clone
 $ git clone https://github.com/EricNeves/simpleSPA.git
